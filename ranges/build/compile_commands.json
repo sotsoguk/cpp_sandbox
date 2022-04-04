@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sotsoguk/projects/cpp_sandbox/ranges/build",
+  "command": "/usr/bin/g++ -I/home/sotsoguk/.conan/data/fmt/8.1.1/_/_/package/3bb43d390932310d9ef00e9986e41f02509d79e8/include -I/home/sotsoguk/.conan/data/range-v3/0.11.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -g  -o CMakeFiles/demo1.dir/src/demoRange1.cpp.o -c /home/sotsoguk/projects/cpp_sandbox/ranges/src/demoRange1.cpp",
+  "file": "/home/sotsoguk/projects/cpp_sandbox/ranges/src/demoRange1.cpp"
+}
+]
